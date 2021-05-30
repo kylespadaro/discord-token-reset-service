@@ -1,6 +1,7 @@
 Discord Token Reset Service
-If your Discord bot's token is listed here, unfortunately you leaked it. I am posting it here so Discord detects it and generates a new one for you. Nobody should have access to your bot's token but you.
+If your Discord bot's token is listed here, unfortunately you leaked it, either intentionally or unintentionally. I am posting it here so Discord detects it and generates a new one for you. Nobody should have access to your bot's token but you.
 
 Nzc3Mjc4NTQ4MDQxMTM4MTg2.X7BHDg.QTFVv9ac20M0drvopxEJYK5JVj4
 NzY2MTUyNDc5NDc2ODA5Nzg4.X4fNGQ.n0dHaUa-kiYGKKAD8CrTXqQ9No0
 Nzg4Mjg3MDMxNTQwMzE4MjM4.X9hTgQ.AhHp7J2VRflkDcE8kLvHSOWhXlc
+ODM5ODkxMjI0NTQ1ODUzNDgw.YJQPqA.WJr4I7N9aLkuGfciEfH_O3LKIsw
